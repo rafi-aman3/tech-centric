@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tech-centric/static/css/main.527ae4a4.css",
+    "main.js": "/tech-centric/static/js/main.301efe74.js",
+    "static/js/787.2ae92f7d.chunk.js": "/tech-centric/static/js/787.2ae92f7d.chunk.js",
+    "static/media/logo.svg": "/tech-centric/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tech-centric/index.html",
+    "main.527ae4a4.css.map": "/tech-centric/static/css/main.527ae4a4.css.map",
+    "main.301efe74.js.map": "/tech-centric/static/js/main.301efe74.js.map",
+    "787.2ae92f7d.chunk.js.map": "/tech-centric/static/js/787.2ae92f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527ae4a4.css",
+    "static/js/main.301efe74.js"
+  ]
+}
